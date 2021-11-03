@@ -1,0 +1,53 @@
+.mediaViewInfo {
+	--web-view-name: ToDo;
+	--web-view-id: ToDo;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: ToDo;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#ToDo {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: ToDo;
+	--web-view-id: ToDo;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+#Group_1 {
+	position: absolute;
+	width: 302px;
+	height: 696px;
+	left: 204px;
+	top: 192px;
+	overflow: visible;
+}
+#ToDo__bv-1e2e_ki-510_ex-_Schem {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Typeka;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+	text-transform: capitalize;
+}
