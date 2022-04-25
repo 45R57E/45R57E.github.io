@@ -25,38 +25,75 @@
         }
         ::-webkit-scrollbar-thumb{}
         
-        .site-header{
-	        height: 9rem;
-	        margin: 8px;
-        } 
+ 	.header{
+        	position: relative;
+		background-color: #194785;
+		height: 7rem;
+		margin: 8px;
+	}
+	    
+	body {
+		background-color:#ffffff;
+		margin: 0px;
+		padding: 0px;
+		font-size: 100%;
+	}
 
-        .logo {
-            float: right !important;
-            width: 10%;
-        }
+	.grid-container {
+	    padding-right: 0;
+	    padding-left: 0;
+	    max-width: 1400px;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
 
-	    body {
-		    background-color:#ffffff;
-		    margin: 0px;
-		    font-size: 100%;
-	    }
+	.navigation--left {
+	}
+
+	.navigation--right {
+	//    display: flex;
+	}
+
+	.logo {
+	 	float: right !important;
+	  	fill: white;
+	  	padding-right: 30px;
+	}
+
+	.logo .caption {
+	 	fill: white;
+	}
+
+	.icon {
+		width: 100px;
+		height: 100%;
+	}
+
+	.logo .icon svg {
+		width: 100%;
+		height: auto;
+		display: block;
+		max-width: 100%;
+	}
     </style>
 </head>
 
 <body>
-    <header class="site-header">
-    	<div class="logo">
-            <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-            <a href="./">
-                    <text>
-                        <tspan x="0" y="16">DEREG</tspan>
-                        <tspan x="0" dy="15">E</tspan>
-                        <tspan x="0" dy="15">WASSE</tspan>
-                        <tspan x="0" dy="15">NBERG</tspan>
-                    </text>
-                </a>
-            </svg>
-	    </div>
+    <header class="header grid-container">
+        <div class="navigation navigation--right">
+	    <a href="/" class="logo">
+                <div class="icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 100">
+                       <text class="caption">
+                           <tspan x="0" y="16">DEREG</tspan>
+                           <tspan x="0" dy="15">E</tspan>
+                           <tspan x="0" dy="15">WASSE</tspan>
+                           <tspan x="0" dy="15">NBERG</tspan>
+                       </text>
+                   </svg>
+               </div>
+            </a>
+	</div>
     </header>
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Lqt6C4_hAWM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	<p> link schema: https://calendar.google.com/calendar/u/0?cid=NDVyNTdlQGdtYWlsLmNvbQ  </p>
 	
