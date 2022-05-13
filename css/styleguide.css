@@ -106,10 +106,10 @@
   font-weight: 400;
 }
 
-.anton-normal-black-124px {
+.anton-normal-black-33px {
   color: var(--black);
   font-family: var(--font-family-anton);
-  font-size: 124px;
+  font-size: 33px;
   font-style: normal;
   font-weight: 400;
 }
@@ -126,6 +126,14 @@
   color: var(--black);
   font-family: var(--font-family-anton);
   font-size: 80px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-124px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 124px;
   font-style: normal;
   font-weight: 400;
 }

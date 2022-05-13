@@ -2,6 +2,7 @@
 
 .index {
   background-color: var(--white);
+  cursor: pointer;
   height: 100vh;
   margin: 0px;
   min-height: 1080px;
@@ -12,61 +13,53 @@
   width: 100%;
 }
 
-.index .gipexit-22-IO3Fu5 {
+.index .enter-IO3Fu5 {
   background-color: transparent;
-  bottom: calc(8.93% - 51px);
-  color: var(--black);
   cursor: pointer;
-  font-family: var(--font-family-anton);
-  font-size: 377px;
-  font-weight: 400;
-  height: 569px;
-  left: calc(42.85% - 192px);
-  letter-spacing: 0.00px;
-  line-height: 29px;
-  position: absolute;
-  text-align: left;
-  transform: rotate(1.00deg);
-  white-space: nowrap;
-  width: 448px;
-}
-
-.index .span0-nCsaG9 {
-  font-style: normal;
-}
-
-.index .span1-nCsaG9 {
-  font-family: var(--font-family-menckenstd-regular);
-  font-size: 60px;
-  font-style: normal;
-}
-
-.index .hoe-voelt-het-om-in-IO3Fu5 {
-  background-color: transparent;
-  height: 381px;
-  letter-spacing: 0.00px;
-  line-height: 29px;
-  position: absolute;
-  right: 199px;
-  text-align: left;
-  top: calc(46.71% - 178px);
-  width: 638px;
-}
-
-.index .derege-IO3Fu5 {
-  background-color: transparent;
-  color: var(--black-2);
-  font-family: var(--font-family-anton);
-  font-size: 122px;
-  font-style: normal;
-  font-weight: 400;
-  height: 471px;
+  height: 52px;
+  left: calc(48.35% - 136px);
   letter-spacing: 0.00px;
   line-height: 143px;
   position: absolute;
-  right: 133px;
   text-align: left;
-  top: 45px;
+  top: calc(40.42% - 21px);
   white-space: nowrap;
-  width: 190px;
+  width: 281px;
+}
+/* screen - index-1 */
+
+.index-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 512px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index-1 .enter-H5p1XY {
+  background-color: transparent;
+  height: 52px;
+  letter-spacing: 0.00px;
+  line-height: 143px;
+  position: absolute;
+  right: calc(36.15% - 102px);
+  text-align: left;
+  top: calc(42.32% - 22px);
+  white-space: nowrap;
+  width: 281px;
+}
+@media screen and (max-width: 1979px) {
+  .screen.index { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1980px) {
+  .screen.index-1 { 
+    display: none;
+   }
 }
