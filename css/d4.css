@@ -1,0 +1,164 @@
+/* screen - d4 */
+
+.d4 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1866px;
+  min-width: 1980px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.d4 .gipexit-22-Kru7Ya {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 92px;
+  text-align: left;
+  top: 110px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.d4 .span0-Smo9rU {
+}
+
+.d4 .span1-Smo9rU {
+}
+
+.d4 .dsc_0016_-moment-Kru7Ya {
+  background-color: transparent;
+  height: 540px;
+  object-fit: cover;
+  position: absolute;
+  right: 269px;
+  top: calc(26.92% - 145px);
+  width: 960px;
+}
+
+.d4 .dsc_0017-Kru7Ya {
+  background-color: transparent;
+  bottom: calc(33.96% - 128px);
+  height: 376px;
+  object-fit: cover;
+  position: absolute;
+  right: 235px;
+  width: 563px;
+}
+
+.d4 .image-7-Kru7Ya {
+  background-color: transparent;
+  bottom: calc(26.90% - 131px);
+  height: 487px;
+  left: 226px;
+  object-fit: cover;
+  position: absolute;
+  width: 727px;
+}
+
+.d4 .d4-Kru7Ya {
+  background-color: transparent;
+  height: 782px;
+  left: 184px;
+  letter-spacing: 0.00px;
+  line-height: 122px;
+  position: absolute;
+  text-align: left;
+  top: 191px;
+  width: 362px;
+}
+/* screen - d4-1 */
+
+.d4-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1866px;
+  min-width: 700px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.d4-1 .dsc_0016_-moment-dj2l54 {
+  background-color: transparent;
+  height: 540px;
+  left: -134px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(26.92% - 145px);
+  width: calc(100.00% + 260px);
+}
+
+.d4-1 .dsc_0017-dj2l54 {
+  background-color: transparent;
+  bottom: calc(33.96% - 128px);
+  height: 376px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 563px;
+}
+
+.d4-1 .image-7-dj2l54 {
+  background-color: transparent;
+  bottom: calc(26.90% - 131px);
+  height: 487px;
+  left: -14px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 27px);
+}
+
+.d4-1 .d4-dj2l54 {
+  background-color: transparent;
+  height: 782px;
+  letter-spacing: 0.00px;
+  line-height: 122px;
+  position: absolute;
+  right: calc(41.76% - 151px);
+  text-align: left;
+  top: 191px;
+  width: 362px;
+}
+
+.d4-1 .gipexit-22-dj2l54 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 92px;
+  text-align: left;
+  top: 110px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.d4-1 .span0-lZGfZX {
+}
+
+.d4-1 .span1-lZGfZX {
+}
+@media screen and (max-width: 1979px) {
+  .screen.d4 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1980px) {
+  .screen.d4-1 { 
+    display: none;
+   }
+}

@@ -1,0 +1,124 @@
+/* screen - p3 */
+
+.p3 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1084px;
+  min-width: 1980px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.p3 .image-12-BPvx5s {
+  background-color: transparent;
+  bottom: calc(49.94% - 136px);
+  height: 273px;
+  left: calc(50.00% - 173px);
+  object-fit: cover;
+  position: absolute;
+  width: 346px;
+}
+
+.p3 .gipexit-22-BPvx5s {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 92px;
+  text-align: left;
+  top: 110px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.p3 .span0-HxN7eL {
+}
+
+.p3 .span1-HxN7eL {
+}
+
+.p3 .p3-BPvx5s {
+  background-color: transparent;
+  height: 660px;
+  left: 136px;
+  letter-spacing: 0.00px;
+  line-height: 122px;
+  position: absolute;
+  text-align: left;
+  top: 117px;
+  width: 415px;
+}
+/* screen - p3-1 */
+
+.p3-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1084px;
+  min-width: 700px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.p3-1 .p3-n1jCV7 {
+  background-color: transparent;
+  height: 660px;
+  letter-spacing: 0.00px;
+  line-height: 122px;
+  position: absolute;
+  right: calc(38.25% - 159px);
+  text-align: left;
+  top: 117px;
+  width: 415px;
+}
+
+.p3-1 .image-12-n1jCV7 {
+  background-color: transparent;
+  bottom: calc(49.94% - 136px);
+  height: 273px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  width: 346px;
+}
+
+.p3-1 .gipexit-22-n1jCV7 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 74px;
+  text-align: left;
+  top: 70px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.p3-1 .span0-XKRO2V {
+}
+
+.p3-1 .span1-XKRO2V {
+}
+@media screen and (max-width: 1979px) {
+  .screen.p3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1980px) {
+  .screen.p3-1 { 
+    display: none;
+   }
+}

@@ -1,0 +1,163 @@
+:root { 
+  --black: #000000;
+  --black-2: #010000;
+  --white: #ffffff;
+ 
+  --font-size-l: 30px;
+  --font-size-m: 20px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 47px;
+  --font-size-xxxl: 69px;
+  --font-size-xxxxl: 119px;
+  --font-size-xxxxxl: 211px;
+ 
+  --font-family-anton: "Anton", Helvetica;
+  --font-family-mencken_std: "Mencken Std", Helvetica;
+  --font-family-menckenstd-regular: "MenckenStd-Regular", Helvetica;
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+}
+.anton-normal-black-69px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: var(--font-size-xxxl);
+}
+
+.anton-normal-black-69px-2 {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.menckenstd-regular-normal-black-47px {
+  color: var(--black);
+  font-family: var(--font-family-menckenstd-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-356px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 356px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.menckenstd-regular-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-menckenstd-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-211px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-119px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-40px-2 {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: var(--font-size-xl);
+}
+
+.menckenstd-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-mencken_std);
+  font-size: var(--font-size-m);
+}
+
+.anton-normal-black-150px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 150px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-124px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 124px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-76px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 76px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-80px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-34px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.anton-normal-black-70px {
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-black-2px {
+  color: var(--black-2);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 2px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-black-2px-2 {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 2px;
+  font-style: normal;
+  font-weight: 400;
+}

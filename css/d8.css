@@ -1,0 +1,454 @@
+/* screen - d8 */
+
+.d8 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 3325px;
+  min-width: 1980px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.d8 .gipexit-22-4euBMP {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 92px;
+  text-align: left;
+  top: 110px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.d8 .span0-fo1oAH {
+}
+
+.d8 .span1-fo1oAH {
+}
+
+.d8 .dsc_0039-4euBMP {
+  background-color: transparent;
+  height: 390px;
+  left: calc(33.33% - 87px);
+  object-fit: cover;
+  position: absolute;
+  top: 207px;
+  width: 261px;
+}
+
+.d8 .dsc_0040-4euBMP {
+  background-color: transparent;
+  height: 261px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.40% - 173px);
+  top: 207px;
+  width: 390px;
+}
+
+.d8 .dsc_0040_-moment-4euBMP {
+  background-color: transparent;
+  height: 141px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(23.47% - 59px);
+  top: 207px;
+  width: 250px;
+}
+
+.d8 .dsc_0037-4euBMP {
+  background-color: transparent;
+  height: 261px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: 207px;
+  width: 390px;
+}
+
+.d8 .dsc01551-4euBMP {
+  background-color: transparent;
+  bottom: calc(41.76% - 81px);
+  height: 193px;
+  left: calc(39.37% - 102px);
+  object-fit: cover;
+  position: absolute;
+  width: 258px;
+}
+
+.d8 .dsc01552-4euBMP {
+  background-color: transparent;
+  height: 188px;
+  left: calc(33.12% - 83px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(20.59% - 39px);
+  width: 250px;
+}
+
+.d8 .dsc01553-4euBMP {
+  background-color: transparent;
+  bottom: calc(33.38% - 65px);
+  height: 194px;
+  left: calc(39.37% - 102px);
+  object-fit: cover;
+  position: absolute;
+  width: 258px;
+}
+
+.d8 .dsc01555-4euBMP {
+  background-color: transparent;
+  height: 196px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(46.66% - 122px);
+  top: calc(20.65% - 40px);
+  width: 261px;
+}
+
+.d8 .dsc01556-4euBMP {
+  background-color: transparent;
+  height: 193px;
+  left: calc(39.37% - 102px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(49.87% - 96px);
+  width: 258px;
+}
+
+.d8 .dsc01557-4euBMP {
+  background-color: transparent;
+  height: 274px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(21.11% - 77px);
+  top: calc(18.29% - 50px);
+  width: 365px;
+}
+
+.d8 .dsc01558-4euBMP {
+  background-color: transparent;
+  height: 391px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(37.08% - 145px);
+  width: 521px;
+}
+
+.d8 .dsc01559-4euBMP {
+  background-color: transparent;
+  height: 386px;
+  left: calc(46.27% - 238px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(37.18% - 144px);
+  width: 515px;
+}
+
+.d8 .dsc01560-4euBMP {
+  background-color: transparent;
+  height: 381px;
+  object-fit: cover;
+  position: absolute;
+  right: 121px;
+  top: calc(36.96% - 141px);
+  width: 509px;
+}
+
+.d8 .dsc01561-4euBMP {
+  background-color: transparent;
+  bottom: calc(48.84% - 133px);
+  height: 272px;
+  object-fit: cover;
+  position: absolute;
+  right: 264px;
+  width: 363px;
+}
+
+.d8 .dsc01549-4euBMP {
+  background-color: transparent;
+  height: 293px;
+  left: 133px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(19.69% - 58px);
+  width: 390px;
+}
+
+.d8 .dsc01550-4euBMP {
+  background-color: transparent;
+  bottom: calc(46.05% - 180px);
+  height: 391px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 521px;
+}
+
+.d8 .dsc01554-4euBMP {
+  background-color: transparent;
+  bottom: calc(24.98% - 48px);
+  height: 194px;
+  left: calc(39.37% - 102px);
+  object-fit: cover;
+  position: absolute;
+  width: 258px;
+}
+
+.d8 .d8-4euBMP {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-anton);
+  font-size: 356px;
+  font-style: normal;
+  font-weight: 400;
+  height: 782px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 122px;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  width: 362px;
+}
+/* screen - d8-1 */
+
+.d8-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 3325px;
+  min-width: 700px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.d8-1 .gipexit-22-Wv6SU1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 92px;
+  text-align: left;
+  top: 110px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.d8-1 .span0-6e2lKt {
+}
+
+.d8-1 .span1-6e2lKt {
+}
+
+.d8-1 .dsc_0039-Wv6SU1 {
+  background-color: transparent;
+  height: 390px;
+  left: calc(33.26% - 87px);
+  object-fit: cover;
+  position: absolute;
+  top: 207px;
+  width: 261px;
+}
+
+.d8-1 .dsc_0040-Wv6SU1 {
+  background-color: transparent;
+  height: 261px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(44.41% - 173px);
+  top: 207px;
+  width: 390px;
+}
+
+.d8-1 .dsc_0040_-moment-Wv6SU1 {
+  background-color: transparent;
+  height: 141px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(23.54% - 59px);
+  top: 207px;
+  width: 250px;
+}
+
+.d8-1 .dsc_0037-Wv6SU1 {
+  background-color: transparent;
+  height: 261px;
+  left: calc(39.12% - 153px);
+  object-fit: cover;
+  position: absolute;
+  top: 207px;
+  width: 390px;
+}
+
+.d8-1 .dsc01551-Wv6SU1 {
+  background-color: transparent;
+  bottom: calc(22.32% - 43px);
+  height: 193px;
+  left: calc(39.41% - 102px);
+  object-fit: cover;
+  position: absolute;
+  width: 258px;
+}
+
+.d8-1 .dsc01552-Wv6SU1 {
+  background-color: transparent;
+  height: 188px;
+  left: calc(33.12% - 83px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(20.59% - 39px);
+  width: 250px;
+}
+
+.d8-1 .dsc01553-Wv6SU1 {
+  background-color: transparent;
+  bottom: 436px;
+  height: 194px;
+  left: calc(39.41% - 102px);
+  object-fit: cover;
+  position: absolute;
+  width: 258px;
+}
+
+.d8-1 .dsc01555-Wv6SU1 {
+  background-color: transparent;
+  height: 196px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(46.70% - 122px);
+  top: calc(20.65% - 40px);
+  width: 261px;
+}
+
+.d8-1 .dsc01556-Wv6SU1 {
+  background-color: transparent;
+  bottom: calc(30.68% - 59px);
+  height: 193px;
+  left: calc(39.41% - 102px);
+  object-fit: cover;
+  position: absolute;
+  width: 258px;
+}
+
+.d8-1 .dsc01557-Wv6SU1 {
+  background-color: transparent;
+  height: 274px;
+  object-fit: cover;
+  position: absolute;
+  right: 77px;
+  top: calc(18.29% - 50px);
+  width: 365px;
+}
+
+.d8-1 .dsc01558-Wv6SU1 {
+  background-color: transparent;
+  height: 391px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(32.55% - 127px);
+  width: 521px;
+}
+
+.d8-1 .dsc01559-Wv6SU1 {
+  background-color: transparent;
+  height: 386px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.31% - 163px);
+  width: calc(100.00% - 185px);
+}
+
+.d8-1 .dsc01560-Wv6SU1 {
+  background-color: transparent;
+  bottom: calc(41.54% - 158px);
+  height: 381px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  width: 509px;
+}
+
+.d8-1 .dsc01561-Wv6SU1 {
+  background-color: transparent;
+  bottom: calc(28.89% - 79px);
+  height: 272px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  width: 363px;
+}
+
+.d8-1 .dsc01549-Wv6SU1 {
+  background-color: transparent;
+  height: 293px;
+  left: calc(39.12% - 153px);
+  object-fit: cover;
+  position: absolute;
+  top: calc(19.69% - 58px);
+  width: 390px;
+}
+
+.d8-1 .dsc01550-Wv6SU1 {
+  background-color: transparent;
+  bottom: calc(25.29% - 99px);
+  height: 391px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 521px;
+}
+
+.d8-1 .dsc01554-Wv6SU1 {
+  background-color: transparent;
+  bottom: 173px;
+  height: 194px;
+  left: calc(39.41% - 102px);
+  object-fit: cover;
+  position: absolute;
+  width: 258px;
+}
+
+.d8-1 .d8-Wv6SU1 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-anton);
+  font-size: 356px;
+  font-style: normal;
+  font-weight: 400;
+  height: 782px;
+  left: 100px;
+  letter-spacing: 0.00px;
+  line-height: 122px;
+  position: absolute;
+  text-align: left;
+  top: 164px;
+  width: 362px;
+}
+@media screen and (max-width: 1979px) {
+  .screen.d8 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1980px) {
+  .screen.d8-1 { 
+    display: none;
+   }
+}

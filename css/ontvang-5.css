@@ -1,0 +1,97 @@
+/* screen - ontvang-5 */
+
+.ontvang-5 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 512px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ontvang-5 .gipexit-22-5RJBxE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  left: 382px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 81px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.ontvang-5 .span0-jZG3ax {
+}
+
+.ontvang-5 .span1-jZG3ax {
+}
+
+.ontvang-5 .image-34-5RJBxE {
+  background-color: transparent;
+  bottom: calc(24.55% - 76px);
+  height: 310px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  width: 203px;
+}
+
+.ontvang-5 .image-33-5RJBxE {
+  background-color: transparent;
+  bottom: calc(22.64% - 24px);
+  height: 104px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 228px;
+}
+
+.ontvang-5 .image-35-5RJBxE {
+  background-color: transparent;
+  height: 247px;
+  left: 46px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: calc(100.00% - 92px);
+}
+
+.ontvang-5 .concept-5RJBxE {
+  background-color: transparent;
+  cursor: pointer;
+  height: 347px;
+  left: 179px;
+  letter-spacing: 0.00px;
+  line-height: 83px;
+  position: fixed;
+  text-align: left;
+  top: 447px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: calc(100.00% - 356px);
+}
+
+.ontvang-5 .h14-p48-het-klein-be-5RJBxE {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 79px;
+  letter-spacing: 0.00px;
+  line-height: 10px;
+  position: absolute;
+  right: 33px;
+  text-align: left;
+  top: calc(32.02% - 25px);
+  white-space: nowrap;
+  width: 223px;
+}

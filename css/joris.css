@@ -1,0 +1,317 @@
+/* screen - joris */
+
+.joris {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2421px;
+  min-width: 1980px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.joris .joris-van-de-moortel-e6JfYZ {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  height: 301px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: 242px;
+  text-align: left;
+  top: 190px;
+  transform: rotate(-1.00deg);
+  white-space: nowrap;
+  width: 1003px;
+}
+
+.joris .span0-jEtCnk {
+}
+
+.joris .span1-jEtCnk {
+}
+
+.joris .image-22-e6JfYZ {
+  background-color: transparent;
+  bottom: calc(26.95% - 179px);
+  height: 666px;
+  left: 181px;
+  object-fit: cover;
+  position: absolute;
+  width: 1000px;
+}
+
+.joris .gipexit-22-e6JfYZ {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 92px;
+  text-align: left;
+  top: 110px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.joris .span0-tpi59M {
+}
+
+.joris .span1-tpi59M {
+}
+
+.joris .image-21-e6JfYZ {
+  background-color: transparent;
+  height: 325px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(36.02% - 117px);
+  width: 489px;
+}
+
+.joris .belggeboren-in-oosta-e6JfYZ {
+  background-color: transparent;
+  height: 80px;
+  left: calc(34.21% - 92px);
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(32.64% - 26px);
+  white-space: nowrap;
+  width: 270px;
+}
+
+.joris .forest-prpare-in-met-e6JfYZ {
+  background-color: transparent;
+  bottom: 341px;
+  height: 106px;
+  left: 181px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 253px;
+}
+
+.joris .image-23-e6JfYZ {
+  background-color: transparent;
+  height: 824px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(28.10% - 169px);
+  top: 343px;
+  width: 603px;
+}
+
+.joris .image-24-e6JfYZ {
+  background-color: transparent;
+  height: 379px;
+  object-fit: cover;
+  position: absolute;
+  right: 67px;
+  top: 343px;
+  width: 284px;
+}
+
+.joris .inspiratie-e6JfYZ {
+  background-color: transparent;
+  height: 474px;
+  left: 198px;
+  letter-spacing: 0.00px;
+  line-height: 155px;
+  position: absolute;
+  text-align: left;
+  top: 267px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 412px;
+}
+
+.joris .jorisvandemoorteleubio-e6JfYZ {
+  background-color: transparent;
+  color: #707070;
+  font-family: var(--font-family-menckenstd-regular);
+  font-size: 2px;
+  font-style: normal;
+  font-weight: 400;
+  height: 302px;
+  left: calc(34.86% - 105px);
+  letter-spacing: 0.00px;
+  line-height: 2px;
+  position: absolute;
+  text-align: left;
+  top: calc(39.31% - 119px);
+  width: 302px;
+}
+/* screen - joris-1 */
+
+.joris-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 2421px;
+  min-width: 700px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.joris-1 .joris-van-de-moortel-b8VYEa {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 75px;
+  font-weight: 400;
+  height: 189px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 160px;
+  transform: rotate(-1.00deg);
+  white-space: nowrap;
+  width: calc(100.00% - 72px);
+}
+
+.joris-1 .span0-PRZ7iM {
+  font-style: normal;
+}
+
+.joris-1 .span1-PRZ7iM {
+  font-size: 25px;
+  font-style: normal;
+}
+
+.joris-1 .image-22-b8VYEa {
+  background-color: transparent;
+  bottom: calc(26.95% - 179px);
+  height: 666px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 300px);
+}
+
+.joris-1 .gipexit-22-b8VYEa {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  right: 92px;
+  text-align: left;
+  top: 110px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.joris-1 .span0-cnROnT {
+}
+
+.joris-1 .span1-cnROnT {
+}
+
+.joris-1 .image-21-b8VYEa {
+  background-color: transparent;
+  height: 325px;
+  left: 85px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(36.02% - 117px);
+  width: 489px;
+}
+
+.joris-1 .belggeboren-in-oosta-b8VYEa {
+  background-color: transparent;
+  height: 83px;
+  left: calc(34.42% - 93px);
+  letter-spacing: 0.00px;
+  line-height: 2px;
+  position: absolute;
+  text-align: left;
+  top: calc(33.85% - 28px);
+  white-space: nowrap;
+  width: 270px;
+}
+
+.joris-1 .span0-boUioF {
+}
+
+.joris-1 .span1-boUioF {
+  color: var(--black);
+  font-family: var(--font-family-menckenstd-regular);
+  font-size: 2px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.joris-1 .forest-prpare-in-met-b8VYEa {
+  background-color: transparent;
+  bottom: 341px;
+  height: 106px;
+  left: 93px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 253px;
+}
+
+.joris-1 .image-23-b8VYEa {
+  background-color: transparent;
+  height: 824px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 343px;
+  width: calc(100.00% - 97px);
+}
+
+.joris-1 .image-24-b8VYEa {
+  background-color: transparent;
+  height: 379px;
+  object-fit: cover;
+  position: absolute;
+  right: 67px;
+  top: 343px;
+  width: 284px;
+}
+
+.joris-1 .inspiratie-b8VYEa {
+  background-color: transparent;
+  height: 474px;
+  left: 198px;
+  letter-spacing: 0.00px;
+  line-height: 155px;
+  position: absolute;
+  text-align: left;
+  top: 267px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 412px;
+}
+@media screen and (max-width: 1979px) {
+  .screen.joris { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1980px) {
+  .screen.joris-1 { 
+    display: none;
+   }
+}

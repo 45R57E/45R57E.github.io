@@ -1,0 +1,75 @@
+/* screen - ontvang */
+
+.ontvang {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 512px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ontvang .enter-uW0leT {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 52px;
+  letter-spacing: 0.00px;
+  line-height: 143px;
+  position: absolute;
+  right: calc(36.15% - 102px);
+  text-align: left;
+  top: calc(42.32% - 22px);
+  white-space: nowrap;
+  width: 281px;
+}
+/* screen - ontvang-2 */
+
+.ontvang-2 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 1980px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.ontvang-2 .enter-3yntj6 {
+  background-color: transparent;
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-anton);
+  font-size: 33px;
+  font-style: normal;
+  font-weight: 400;
+  height: 52px;
+  left: calc(48.35% - 136px);
+  letter-spacing: 0.00px;
+  line-height: 143px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.42% - 21px);
+  white-space: nowrap;
+  width: 281px;
+}
+@media screen and (max-width: 1979px) {
+  .screen.ontvang-2 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1980px) {
+  .screen.ontvang { 
+    display: none;
+   }
+}

@@ -1,0 +1,93 @@
+/* screen - index-1 */
+
+.index-1 {
+  background-color: var(--white);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1080px;
+  min-width: 1980px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.index-1 .group-29-H5p1XY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 673px;
+  left: 263px;
+  position: absolute;
+  top: 106px;
+  width: 307px;
+}
+
+.index-1 .procces-dKX0I0 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-anton);
+  font-size: 201px;
+  font-style: normal;
+  font-weight: 400;
+  height: 670px;
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 122px;
+  position: absolute;
+  text-align: left;
+  top: 93px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 297px;
+}
+
+.index-1 .concept-H5p1XY {
+  background-color: transparent;
+  bottom: 46px;
+  cursor: pointer;
+  height: 617px;
+  left: calc(42.92% - 118px);
+  letter-spacing: 0.00px;
+  line-height: 149px;
+  position: absolute;
+  text-align: left;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 275px;
+}
+
+.index-1 .inspiratie-H5p1XY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 58.24%;
+  left: 56.10%;
+  letter-spacing: 0.00px;
+  line-height: 155px;
+  position: absolute;
+  text-align: left;
+  top: 11.95%;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 20.81%;
+}
+
+.index-1 .gipexit-22-H5p1XY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 133px;
+  left: 1793px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 110px;
+  transform: rotate(1.00deg);
+  white-space: nowrap;
+  width: 95px;
+}
+
+.index-1 .span0-CRmGC4 {
+}
+
+.index-1 .span1-CRmGC4 {
+}
